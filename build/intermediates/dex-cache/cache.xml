@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Vinay/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/Vinay/Developer/OpenSeatBU/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-64562e4e33283b6bcb2b897799cf6fd4539b7a6b.jar" />
+    </item>
+    <item
+        jar="/Users/Vinay/Developer/OpenSeatBU/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/Vinay/Developer/OpenSeatBU/app/build/intermediates/pre-dexed/debug/classes-51fe85517473a6ada23e19dc8990c9ff1e60207c.jar" />
+    </item>
+    <item
+        jar="/Users/Vinay/Developer/OpenSeatBU/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/Vinay/Developer/OpenSeatBU/app/build/intermediates/pre-dexed/debug/classes-c8a7d36299210eede6e2fa2562c1cc563123bd31.jar" />
+    </item>
+    <item
+        jar="/Users/Vinay/Developer/OpenSeatBU/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/Vinay/Developer/OpenSeatBU/app/build/intermediates/pre-dexed/debug/classes-e1a805bfb8a3a84e638273f2936523dc0aec2be8.jar" />
+    </item>
+    <item
+        jar="/Users/Vinay/Developer/OpenSeatBU/app/build/intermediates/exploded-aar/com.github.traex.rippleeffect/library/1.2.4/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="92d981b737c081135da787938b9b12d484f42387">
+        <dex dex="/Users/Vinay/Developer/OpenSeatBU/app/build/intermediates/pre-dexed/debug/classes-fb414ca8aa6aa24f2589a2b1d5ec1edfda689bd9.jar" />
+    </item>
+    <item
+        jar="/Users/Vinay/Developer/OpenSeatBU/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/Vinay/Developer/OpenSeatBU/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-016f8186f1751d5fce7a7605b4db51cf1153d024.jar" />
+    </item>
+    <item
+        jar="/Users/Vinay/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.15/9093a362d18c5f81f58e49d86dece57d9b6e1cb7/library-1.0.15.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9093a362d18c5f81f58e49d86dece57d9b6e1cb7">
+        <dex dex="/Users/Vinay/Developer/OpenSeatBU/app/build/intermediates/pre-dexed/debug/library-1.0.15-76df2b47cd13dd671853cdfe20c4696e847c1628.jar" />
+    </item>
+    <item
+        jar="/Users/Vinay/Developer/OpenSeatBU/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.9.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2b8a750df2a5d485d0c40b379b44371c5e6d98d">
+        <dex dex="/Users/Vinay/Developer/OpenSeatBU/app/build/intermediates/pre-dexed/debug/classes-23cf57681e82f9d1ed8cfb0fba6a8a6400f5451d.jar" />
+    </item>
+
+</items>
